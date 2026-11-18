@@ -23,7 +23,7 @@ A Battleship game project built with Next.js and TypeScript, focused on the Flee
 
 Features ship positioning and repositioning, placement validation, and a structured organization of application responsibilities. Includes an automated test suite to validate application behavior.
 
-\<a href="[https://github.com/BetoCarr/sea-warfare](https://github.com/BetoCarr/sea-warfare)">   \<img src="[https://raw.githubusercontent.com/BetoCarr/sea-warfare/main/docs/images/placement-desktop.png](https://raw.githubusercontent.com/BetoCarr/sea-warfare/main/docs/images/placement-desktop.png)" alt="Sea Warfare fleet placement interface" width="720" /> \</a>
+<a href="https://github.com/BetoCarr/sea-warfare">   <img src="https://raw.githubusercontent.com/BetoCarr/sea-warfare/main/docs/images/placement-desktop.png" alt="Sea Warfare fleet placement interface" width="720" /> </a>
 
 ### [Sportflix](https://github.com/BetoCarr/Sportflix)
 
@@ -31,7 +31,9 @@ A web application built with React for managing and organizing videos through ca
 
 Implements CRUD operations, dynamic navigation, state and data management with Redux Toolkit, and integration with a REST API.
 
-\<a href="[https://github.com/BetoCarr/Sportflix](https://github.com/BetoCarr/Sportflix)">   \<img src="[https://raw.githubusercontent.com/BetoCarr/Sportflix/main/docs/screenshots/home.png](https://raw.githubusercontent.com/BetoCarr/Sportflix/main/docs/screenshots/home.png)" alt="Sportflix home page showing video categories and content" width="720" /> \</a>
+<a href="https://github.com/BetoCarr/Sportflix">
+  <img src="https://raw.githubusercontent.com/BetoCarr/Sportflix/main/docs/screenshots/home.png" alt="Sportflix home page showing video categories and content" width="720" />
+</a>
 
 ## Contact
 
