@@ -36,5 +36,5 @@ Implements CRUD operations, dynamic navigation, state and data management with R
 </a>
 
 ## Contact
-
+- [Email] marioalbertocarrillodiaz6@gmail.com
 - [GitHub](https://github.com/BetoCarr)
